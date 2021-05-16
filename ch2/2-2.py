@@ -9,3 +9,4 @@ for i in range(0, T):
     arr=arr[s-1:e]
     arr.sort()
     print("#{} {}".format(i+1, arr[k-1]))
+    #print("#%d %d" %(i+1, arr[k-1]))도 가능

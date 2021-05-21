@@ -17,7 +17,7 @@ cnt=0
 #k=[]
 #for i in range(N+1):
 #    k.append(0)
-k=[0]*(n+1)
+k=[0]*(N+1)
 
 for i in range(2,N+1):
     if k[i]==0:
